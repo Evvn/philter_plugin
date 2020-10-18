@@ -1,0 +1,10 @@
+name: Images
+form: $/evanamezcua/philter/models/image/fields.yaml
+modelClass: Evanamezcua\Philter\Models\Image
+defaultRedirect: evanamezcua/philter/images
+create:
+    redirect: 'evanamezcua/philter/images/update/:id'
+    redirectClose: evanamezcua/philter/images
+update:
+    redirect: evanamezcua/philter/images
+    redirectClose: evanamezcua/philter/images

@@ -1,0 +1,15 @@
+plugin:
+    name: 'evanamezcua.philter::lang.plugin.name'
+    description: 'evanamezcua.philter::lang.plugin.description'
+    author: EvanAmezcua
+    icon: oc-icon-image
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Images
+        url: evanamezcua/philter/images
+        icon: icon-photo
+    main-menu-item2:
+        label: Tags
+        url: evanamezcua/philter/tags
+        icon: icon-quote-left

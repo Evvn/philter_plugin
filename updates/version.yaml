@@ -1,0 +1,20 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table evanamezcua_philter_image'
+    - builder_table_create_evanamezcua_philter_image.php
+1.0.3:
+    - 'Created table evanamezcua_philter_tag'
+    - builder_table_create_evanamezcua_philter_tag.php
+1.0.4:
+    - 'Created table evanamezcua_philter_image_tag'
+    - builder_table_create_evanamezcua_philter_image_tag.php
+1.0.5:
+    - 'Updated table evanamezcua_philter_image'
+    - builder_table_update_evanamezcua_philter_image.php
+1.0.6:
+    - 'Updated table evanamezcua_philter_tag'
+    - builder_table_update_evanamezcua_philter_tag.php
+1.0.7:
+    - 'Updated table evanamezcua_philter_image'
+    - builder_table_update_evanamezcua_philter_image_2.php

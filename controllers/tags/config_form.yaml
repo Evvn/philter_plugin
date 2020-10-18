@@ -1,0 +1,10 @@
+name: Tags
+form: $/evanamezcua/philter/models/tag/fields.yaml
+modelClass: Evanamezcua\Philter\Models\Tag
+defaultRedirect: evanamezcua/philter/tags
+create:
+    redirect: 'evanamezcua/philter/tags/update/:id'
+    redirectClose: evanamezcua/philter/tags
+update:
+    redirect: evanamezcua/philter/tags
+    redirectClose: evanamezcua/philter/tags
